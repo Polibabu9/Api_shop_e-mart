@@ -1,0 +1,12 @@
+.card{
+    border:1px solid #cce;
+    width: 220px;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    object-fit: contain;
+}
